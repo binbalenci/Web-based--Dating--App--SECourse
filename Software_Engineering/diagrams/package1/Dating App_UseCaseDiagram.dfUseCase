@@ -1,0 +1,299 @@
+package id3yqgfj0axw06fj0axxg18;
+
+/**
+@version 2.0
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}/**
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}}/**
+
+@__tags
+@shapeType UseCaseDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node:oiref>=640,170,107,36,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node11.link22:oiref>=537,250,660,250,660,206:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node18:oiref>=370,200,210,30,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node27:oiref>=290,40,136,31,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node.link:oiref>=210,55,290,55:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node11:oiref>=420,240,117,33,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1.link6:oiref>=230,330,350,330,510,330:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1.link1:oiref>=200,210,200,180,390,180,400,178:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1.link4:oiref>=230,385,490,385:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1.link:oiref>=230,220,370,220:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node:oiref>=120,0,90,140,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node5.link:oiref>=608,350,730,350,730,206:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node28.link29:oiref>=603,439,810,440,810,150,710,150,710,170:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node15.link16:oiref>=579,290,720,290,720,206:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1:oiref>=100,210,130,210,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node21.link23:oiref>=557,178,640,180:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node6.link:oiref>=280,160,240,160,180,160,180,210:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node.link8:oiref>=690,170,690,120,840,120,840,460,200,460,150,460,150,420:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node.link7:oiref>=210,110,660,110,660,170:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node25:oiref>=490,370,210,30,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node28:oiref>=450,420,153,29,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node5:oiref>=510,320,98,45,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node21:oiref>=400,160,157,28,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node17:oiref>=642,184,141,33,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node15:oiref>=400,280,179,36,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node6:oiref>=280,120,121,51,0:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1.link2:oiref>=230,251,420,251:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node25.link:oiref>=700,380,800,380,800,180,747,180:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1.link5:oiref>=230,298,400,298:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1.link3:oiref>=180,420,180,440,450,439:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node18.link:oiref>=580,210,630,210,640,196:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node6.link9:oiref>=280,130,270,130,210,130:oigroup>
+<oigroup:<oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3:oiref>=270,10,590,470,0:oigroup>
+
+*/
+class __positions {
+}/**
+@shapeType Actor
+@__modelType node
+@name Users 
+*/
+class node {
+/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node27:oiref><oihard> 
+*/
+class link {
+}/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node:oiref><oihard> 
+*/
+class link7 {
+}}/**
+@shapeType Actor
+@__modelType node
+@name Registered User 
+*/
+class node1 {
+/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node18:oiref><oihard> 
+*/
+class link {
+}/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node21:oiref><oihard> 
+*/
+class link1 {
+}/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node11:oiref><oihard> 
+*/
+class link2 {
+}/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node28:oiref><oihard> 
+*/
+class link3 {
+}/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node25:oiref><oihard> 
+*/
+class link4 {
+}/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node15:oiref><oihard> 
+*/
+class link5 {
+}/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node5:oiref><oihard> 
+*/
+class link6 {
+}}/**
+@shapeType SystemBoundary
+@__modelType node
+@name SystemBoundary 
+*/
+class node3 {
+/**
+@shapeType UseCase
+@__modelType node
+@name Log In 
+*/
+class node {
+/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1:oiref><oihard> 
+*/
+class link8 {
+}/**
+@shapeType Hyperlink
+@__modelType link
+@__ref <oiref:design#Class#id2strwj0utq8vyj0uv2pf7.diagram:oiref><oihard> 
+*/
+class link {
+}}/**
+@shapeType UseCase
+@__modelType node
+@name Message to others 
+*/
+class node5 {
+/**
+@shapeType IncludesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node:oiref><oihard>
+*/
+class link {
+}}/**
+@shapeType UseCase
+@__modelType node
+@name View others Profile 
+*/
+class node6 {
+/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node:oiref><oihard> 
+*/
+class link9 {
+}/**
+@shapeType CommunicatesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node1:oiref><oihard> 
+*/
+class link {
+}/**
+@shapeType Hyperlink
+@__modelType link
+@__ref <oiref:design#Class#id4f5g6j0utq8vyj0uvjunt.diagram:oiref><oihard> 
+*/
+class link101 {
+}}/**
+@shapeType UseCase
+@__modelType node
+@name Block User
+*/
+class node11 {
+/**
+@shapeType IncludesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node:oiref><oihard>
+*/
+class link22 {
+}/**
+@shapeType Hyperlink
+@__modelType link
+@__ref <oiref:design#Class#id3o2k4j0uwhlqoj0uy686v.diagram:oiref><oihard> 
+*/
+class link {
+}}/**
+@shapeType UseCase
+@__modelType node
+@name Recieving message 
+*/
+class node15 {
+/**
+@shapeType IncludesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node:oiref><oihard>
+*/
+class link16 {
+}}/**
+@shapeType UseCase
+@__modelType node
+@name Search profile with tags 
+*/
+class node18 {
+/**
+@shapeType IncludesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node:oiref><oihard> 
+*/
+class link {
+}/**
+@shapeType Hyperlink
+@__modelType link
+@__ref <oiref:design#Class#idu10aj0uwhlqoj0uxmy5p.diagram:oiref><oihard> 
+*/
+class link30 {
+}}/**
+@shapeType UseCase
+@__modelType node
+@name View User Status
+*/
+class node21 {
+/**
+@shapeType IncludesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node:oiref><oihard>
+*/
+class link23 {
+}/**
+@shapeType Hyperlink
+@__modelType link
+@__ref <oiref:design#Class#id1angqj0uwhlqoj0uwqd5l.diagram:oiref><oihard> 
+*/
+class link {
+}}/**
+@shapeType UseCase
+@__modelType node
+@name Subscribe for privilege 
+*/
+class node25 {
+/**
+@shapeType IncludesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node:oiref><oihard> 
+*/
+class link {
+}}/**
+@shapeType UseCase
+@__modelType node
+@name Register 
+*/
+class node27 {
+/**
+@shapeType Hyperlink
+@__modelType link
+@__ref <oiref:design#Class#id136ayj0utq8vyj0utrfvx.diagram:oiref><oihard> 
+*/
+class link {
+}}/**
+@shapeType UseCase
+@__modelType node
+@name Save list of Users 
+*/
+class node28 {
+/**
+@shapeType IncludesLink
+@__modelType link
+@__ref <oiref:design#Class#id3yqgfj0axw06fj0axxg18.node3.node:oiref><oihard>
+*/
+class link29 {
+}}}
